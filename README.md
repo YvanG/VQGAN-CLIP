@@ -28,6 +28,8 @@ pip install opencv-python
 
 ## Pretrained models
 
+Copy pretrained models into _models/_
+
 ### vqgan_imagenet_f16_16384
 [model](https://heibox.uni-heidelberg.de/d/a7530b09fed84f80a887/files/?p=%2Fckpts%2Flast.ckpt&dl=1)
 [config](https://heibox.uni-heidelberg.de/d/a7530b09fed84f80a887/files/?p=%2Fconfigs%2Fmodel.yaml&dl=1)

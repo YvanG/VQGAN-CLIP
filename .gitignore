@@ -7,5 +7,6 @@ taming-transformers/
 videos/*
 !videos/.gitkeep
 .idea/
+outputs/
 # Project exclude paths
 /steps/
