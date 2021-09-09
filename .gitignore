@@ -1,0 +1,11 @@
+CLIP/
+ESRGAN/
+models/*
+!models/.gitkeep
+taming/
+taming-transformers/
+videos/*
+!videos/.gitkeep
+.idea/
+# Project exclude paths
+/steps/

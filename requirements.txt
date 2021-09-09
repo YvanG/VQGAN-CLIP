@@ -1,0 +1,16 @@
+pillow~=7.1.2
+torchvision~=0.10.0
+tqdm~=4.62.2
+numpy~=1.20.3
+ftfy~=6.0.3
+regex~=2021.8.28
+setuptools~=52.0.0
+opencv-python~=4.5.3.56
+kornia~=0.5.10
+imageio~=2.9.0
+matplotlib~=3.4.3
+omegaconf~=2.1.1
+pyyaml~=5.4.1
+einops~=0.3.2
+requests~=2.26.0
+scipy~=1.7.1
