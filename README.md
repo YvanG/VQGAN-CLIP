@@ -1,11 +1,11 @@
 # VQ-GAN + CLIP
 
-Repository stems from:
-
-[Original colab](https://colab.research.google.com/drive/1Zx38waUmaF3bk8ejjB21HzGiuAOnX4PD?usp=sharing)
+Repository stems from: [Original colab](https://colab.research.google.com/drive/1Zx38waUmaF3bk8ejjB21HzGiuAOnX4PD?usp=sharing)
  
  
 Additional upscaling using [ESRGAN](https://github.com/xinntao/ESRGAN)
+
+Very nice introduction to the technique: [Alien Dreams](https://ml.berkeley.edu/blog/posts/clip-art/)
  
  ## Installation
  
