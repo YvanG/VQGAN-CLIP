@@ -41,16 +41,16 @@ Additional links to models - work in progress...
 python CLIP_VQGAN.py -texts your_text_prompt
  ```
 **Additional run option**
-- _width_ - Image width
-- _height_ - Image height
-- _model_ - Used pretrained model for VQ-GAN
-- _display_int_ - Display interval during generation of the image
-- _init_image_ - Starting image instead of random noise
-- _target images_ - Target images instead of text prompt
-- _seed_ - Random seed
-- _max_iterations_ - Maximum number of optimization iterations
-- _make_video_ - Possibility of making video from genrated images
-- _upscale_ - Possibility to 4x upscale images 
+- _-width_ - Image width
+- _-height_ - Image height
+- _-model_ - Used pretrained model for VQ-GAN
+- _-display_int_ - Display interval during generation of the image
+- _-init_image_ - Starting image instead of random noise
+- _-target images_ - Target images instead of text prompt
+- _-seed_ - Random seed
+- _-max_iterations_ - Maximum number of optimization iterations
+- _-make_video_ - Possibility of making video from genrated images
+- _-upscale_ - Possibility to 4x upscale images 
 
 ## Additional information
 
