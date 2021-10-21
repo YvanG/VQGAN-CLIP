@@ -246,7 +246,7 @@ def train(i):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('-texts', type=str, default="fear of the dark", help='Input text prompt')
+    parser.add_argument('-texts', type=str, default="clipgun", help='Input text prompt')
     parser.add_argument('-width', type=int, default=256, help='Image width')
     parser.add_argument('-height', type=str, default=256, help='Image height')
     parser.add_argument('-model', type=str, default="vqgan_imagenet_f16_16384", help='Used model')

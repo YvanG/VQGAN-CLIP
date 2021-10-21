@@ -5,6 +5,12 @@ Repository stems from: [Original colab](https://colab.research.google.com/drive/
  
 Additional upscaling using [ESRGAN](https://github.com/xinntao/ESRGAN)
 
+VQ-GAN original paper: https://arxiv.org/abs/2012.09841
+
+CLIP original paper: https://arxiv.org/abs/2103.00020
+
+ESRGAN original paper: https://arxiv.org/abs/1809.00219
+
 Very nice introduction to the technique: [Alien Dreams](https://ml.berkeley.edu/blog/posts/clip-art/)
  
  ## Installation
